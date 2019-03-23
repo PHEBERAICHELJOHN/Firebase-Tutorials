@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/phebe/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e9529e61e0a3a081b5eced5328cc8a5c/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "/home/phebe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c71900159266552f9f31cb3af9f49493/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

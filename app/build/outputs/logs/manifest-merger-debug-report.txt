@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/phebe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c71900159266552f9f31cb3af9f49493/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:16.0.8] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/4387baac1a643cacd1a4effbd7163ae8/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phebe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06bc55b57e98ccc0773f853c65346f8e/AndroidManifest.xml:2:1-11:12
@@ -52,25 +52,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/phebe/.gradle/caches/t
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/phebe/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5062f8acb13335a8812287e56006040/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/phebe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58bc08acb37a9e734d2ba0fb658d4023/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/510c4fa2ea98e986050547278aa64b93/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:3:5-44
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.google.firebase:firebase-core:16.0.8] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/4387baac1a643cacd1a4effbd7163ae8/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.8] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/4387baac1a643cacd1a4effbd7163ae8/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phebe/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06bc55b57e98ccc0773f853c65346f8e/AndroidManifest.xml:9:5-20
@@ -116,35 +116,35 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/phebe/.gradle
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/phebe/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a44ac9443d1cfa4e1cc3c1a8fe24b10f/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.firebasetutorials.MainActivity
-ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/phebe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c71900159266552f9f31cb3af9f49493/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/phebe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c71900159266552f9f31cb3af9f49493/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.8] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/4387baac1a643cacd1a4effbd7163ae8/AndroidManifest.xml:5:5-44
@@ -241,16 +241,16 @@ MERGED from [android.arch.core:runtime:1.1.1] /home/phebe/.gradle/caches/transfo
 MERGED from [android.arch.core:runtime:1.1.1] /home/phebe/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58bc08acb37a9e734d2ba0fb658d4023/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/510c4fa2ea98e986050547278aa64b93/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/510c4fa2ea98e986050547278aa64b93/AndroidManifest.xml:5:5-44
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		ADDED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
-		INJECTED from /home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		ADDED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:16.1.0] /home/phebe/.gradle/caches/transforms-1/files-1.1/firebase-database-16.1.0.aar/88c8cfeab5d56acd0008817438be2588/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/phebe/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/7cf0a3653f7f2ceacf09df4bb9904616/AndroidManifest.xml:23:5-79

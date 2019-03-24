@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "/home/phebe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c71900159266552f9f31cb3af9f49493/res/values-zu/values-zu.xml",

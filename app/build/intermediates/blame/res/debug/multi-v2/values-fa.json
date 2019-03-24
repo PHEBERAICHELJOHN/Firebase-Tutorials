@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phebe/AndroidStudioProjects/emedcom_git/FirebaseTutorials/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+            "outputFile": "/home/phebe/AndroidStudioProjects/Firebase-Tutorials/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
                     "source": "/home/phebe/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3171ca8e7d227e71ef434c48d3f7a4bf/res/values-fa/values.xml",
